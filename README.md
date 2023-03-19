@@ -11,7 +11,7 @@ Queries need to answer:
 6)      Create a new collection which consists of students who scored below the fail mark in all the categories.
 7)      Create a new collection which consists of students who scored above pass mark in all the categories.
 
-# MongoDB-student-DB - TASK 2 
+# MongoDB - TASK 2 
 
 file name =   Telephone_CRUD_operation.py
 
